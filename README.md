@@ -1,4 +1,4 @@
-Olá! Me chamo Arthur Miranda Tavares, moro em João Pessoa-PB e sou Graduando em Ciência da Computação pela UFPB. 
+Olá! Me chamo Arthur Miranda Tavares, moro em João Pessoa-PB e sou graduando em Ciência da Computação pela UFPB. 
 Meu email para contato é: arthurmirandat@gmail.com
 
 <!---
